@@ -1,0 +1,7 @@
+Plant Disease Detection using Convolutional Neural Network (CNN) is a deep learning project used to identify diseases in plant leaves automatically using images.In this project, a CNN model is trained with many images of healthy and diseased plant leaves. The model learns patterns such as spots, color changes, holes, or fungal marks that indicate plant diseases.First, a dataset of leaf images is collected. Each image is labeled with the type of disease or healthy condition. The images are then resized and normalized so they can be used by the CNN model.The CNN automatically extracts features from the images using convolution layers and pooling layers. After training, the model can analyze a new plant leaf image and predict whether the plant is healthy or which disease it has
+Steps in the Project
+      Collect a plant leaf image dataset
+      Preprocess images (resize, normalize, label)
+      Train a CNN model using the dataset
+      Test the model with new leaf images
+      Predict the type of plant disease
